@@ -1,2 +1,2 @@
-Сергей Закорко
-Rkot.vet@gmail.com
+name: Сергей Закорко
+mail: Rkot.vet@gmail.com
